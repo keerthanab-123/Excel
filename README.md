@@ -19,7 +19,7 @@ Sales vs Profit Combo Chart
 Implemented Data Validation for controlled user input
 Applied worksheet protection and dashboard theming
 
-**Dashboard Preview-****
+**Dashboard Preview-**
 <img width="1892" height="771" alt="Screenshot 2026-06-23 173607" src="https://github.com/user-attachments/assets/fe571408-3610-4670-b9ea-adb1c7abcad9" />
 
 **Excel Skills Demonstrated-**
