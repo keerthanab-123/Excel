@@ -41,6 +41,4 @@ global_superstore_2016.xlsx – Complete project workbook
 Created an interactive business intelligence dashboard that enables users to analyze sales, profit, customer behavior, and regional performance within Excel.
 
 **Tools Used:** Microsoft Excel 365
-Created an interactive business intelligence dashboard that enables users to analyze sales, profit, customer behavior, and regional performance within Excel.
 
-Tools Used: Microsoft Excel 365
