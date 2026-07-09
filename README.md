@@ -2,69 +2,96 @@
 
 ## Overview
 
-This project analyzes student performance using Microsoft Excel. It demonstrates the use of formulas, PivotTables, PivotCharts, and a dashboard to summarize and visualize academic performance.
+This project analyzes student academic performance using Microsoft Excel. The project includes data analysis, PivotTables, charts, and a dashboard to summarize and visualize student results.
 
 ## Objectives
 
-* Analyze student marks across multiple subjects.
-* Calculate total marks and average scores.
-* Identify highest and lowest performers.
-* Summarize data using PivotTables.
-* Visualize results with charts.
-* Create a simple interactive dashboard.
+* Analyze student marks across different subjects.
+* Calculate total marks and average performance.
+* Identify highest and lowest scores.
+* Compare subject-wise performance.
+* Create a dashboard for quick insights.
+* Visualize student performance using charts.
 
 ## Tools Used
 
 * Microsoft Excel
-* Pivot Tables
-* Pivot Charts
-* Excel Formulas (SUM, AVERAGE, MAX, MIN, COUNTA)
+* Excel Formulas
+* PivotTables
+* PivotCharts
+* Data Visualization
 * Dashboard Design
 
 ## Dataset
 
-The dataset contains marks of 100 students in the following subjects:
+The dataset contains marks of 100 students across multiple subjects:
 
 * Maths
 * English
 * Science
 * Social Science
 
-The workbook includes:
+## Workbook Structure
 
-* **Raw_Data** – Original student marks
-* **Analysis** – Summary statistics and subject averages
-* **Pivot_Tables** – Pivot table for total marks
-* **Dashboard** – Key metrics and visualization
+```
+Student_Performance_Analysis.xlsx
 
-## Key Features
+├── Raw_Data
+│   └── Original student marks dataset
+│
+├── Analysis
+│   └── Student Performance Summary
+│       - Total Students
+│       - Average Total Marks
+│       - Highest Score
+│       - Lowest Score
+│       - Subject Average Analysis
+│
+├── Pivot_Tables
+│   └── Student total marks analysis using PivotTable
+│
+└── Dashboard
+    └── Visual summary with KPIs and charts
+```
 
-* Total number of students
-* Average total marks
-* Highest and lowest scores
-* Subject-wise averages
-* Pivot Table summary
-* Clustered Column Chart for student total marks
-* Clean dashboard layout
+## Key Insights
+
+* Total Students: 100
+* Average Total Marks: 47.2
+* Highest Total Marks: 100
+* Lowest Total Marks: 0
+
+Subject Average Performance:
+
+* Maths: 54.84
+* English: 50.35
+* Science: 48.61
+* Social Science: 54.72
+
+## Features
+
+* Clean data organization
+* Automated calculations using Excel formulas
+* PivotTable-based analysis
+* Student performance comparison chart
+* Dashboard with key performance indicators
 
 ## Skills Demonstrated
 
-* Data Cleaning
 * Data Analysis
-* Excel Formulas
-* Pivot Tables
+* Microsoft Excel
+* Data Cleaning
+* PivotTables
 * Data Visualization
 * Dashboard Creation
 
-## Project Structure
-
-```text
-Student_Performance_Analysis.xlsx
-README.md
-```
-
 ## Outcome
 
-This project demonstrates fundamental Excel data analysis techniques and dashboard creation skills. It is suitable as a beginner portfolio project for aspiring Data Analysts.
+This project demonstrates fundamental data analytics skills using Excel and provides a clear summary of student performance through reports, charts, and a dashboard.
 
-Keerthana 
+## Author
+
+Keerthana
+
+```
+```
