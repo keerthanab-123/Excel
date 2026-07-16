@@ -112,18 +112,6 @@ To improve data integrity:
 
 ---
 
-## Dashboard Preview
-
-> *(Add a screenshot of your dashboard here)*
-
-Example:
-
-```
-Dashboard.png
-```
-
----
-
 ## Key Skills Demonstrated
 
 - Data Cleaning
@@ -155,5 +143,3 @@ Through this project, I gained practical experience in:
 ## Author
 
 Keerthana
-- Data Visualization
-- Business Analytics
